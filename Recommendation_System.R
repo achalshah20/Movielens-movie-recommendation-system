@@ -19,7 +19,7 @@ library(reshape2)
 #setwd("C:\\Users\\Mr.Lazy\\Google Drive\\IUB Data Science\\Data Mining\\Homeworks\\Submission\\Code\\Que5")
 
 #To support functionalities
-source("DM_5_Common_Functions.R")
+source("CMN_Functions.R")
 
 #If this variable is false then entire code will be run
 #If debug mode is true then R program will use precalculated data
