@@ -16,10 +16,11 @@ library(dplyr)
 library(reshape2)
 
 #Changing current directory to read data files
-#setwd("C:\\Users\\Mr.Lazy\\Google Drive\\IUB Data Science\\Data Mining\\Homeworks\\Submission\\Code\\Que5")
+#setwd("")
 
 #To support functionalities
-source("CMN_Functions.R")
+source("func/movielens_100k_functions.R")
+source("func/movielens_10m_functions.R")
 
 #If this variable is false then entire code will be run
 #If debug mode is true then R program will use precalculated data
